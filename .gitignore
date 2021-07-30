@@ -1,0 +1,5 @@
+*.los
+*.vpk
+maps/editor/*
+*.bin
+
