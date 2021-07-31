@@ -8,4 +8,5 @@ Testing mapping in s&box using the Source 2 hammer editor.
 
 # Guides
 * How to make your first s&box map - https://www.youtube.com/watch?v=KgeS2Kn7LoE
+* Wiki mapping info - https://wiki.facepunch.com/sbox/Creating_your_first_gm_flatgrass
 
